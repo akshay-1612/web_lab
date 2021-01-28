@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding = "UTF-8"?>
+<?xml-stylesheet type = "text/css" href = "5.css"?>
+<STUDENTDATA>
+    <STUDENT>
+        <INFO> STUDENT 1 DETAILS</INFO>
+        <USN>4SF17CS020</USN>
+        <NAME>AKSHAY KUMAR</NAME>
+        <COLLEGE>SAHYADRI </COLLEGE>
+        <BRANCH>CS</BRANCH>
+        <YEAR>4TH</YEAR>
+        <EMAIL>AKSHAY@GMAIL.COM</EMAIL>
+        
+    </STUDENT>
+    
+    <STUDENT>
+        <INFO> STUDENT 2 DETAILS</INFO>
+        <USN>4SF17CS021</USN>
+        <NAME>VIRAT KOHLI</NAME>
+        <COLLEGE>SAHYADRI </COLLEGE>
+        <BRANCH>CS</BRANCH>
+        <YEAR>4TH</YEAR>
+        <EMAIL>VIRAT@GMAIL.COM</EMAIL>
+    </STUDENT>
+    <STUDENT>
+        <INFO> STUDENT 3 DETAILS</INFO>
+        <USN>4SF17CS022</USN>
+        <NAME>ROHIT SHARMA</NAME>
+        <COLLEGE>SAHYADRI </COLLEGE>
+        <BRANCH>CS</BRANCH>
+        <YEAR>4TH</YEAR>
+        <EMAIL>ROHIT@GMAIL.COM</EMAIL>
+    </STUDENT>
+
+</STUDENTDATA>
+
+

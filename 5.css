@@ -1,0 +1,46 @@
+INFO{
+    display: block;
+    font-weight: bold;
+    font-size: 15pt;
+    color: blue;
+}
+USN{
+    display: block;
+    color: red;
+    font-size: 12pt;
+    margin-left: 15px;
+}
+NAME{
+    display: block;
+    color: green;
+    font-size: 12pt;
+    margin-left: 15px;
+}
+COLLEGE{
+    display: block;
+    color: orange;
+    font-size: 12pt;
+    margin-left: 15px;
+}
+BRANCH{
+    display: block;
+    color: purple;
+    font-size: 12pt;
+    margin-left: 15px;
+}
+YEAR{
+    display: block;
+    color: greenyellow;
+    font-size: 12pt;
+    margin-left: 15px;
+}
+EMAIL{
+    display: block;
+    color: maroon;
+    font-size: 12pt;
+    margin-left: 15px;
+}
+STUDENT{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}

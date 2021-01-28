@@ -1,0 +1,38 @@
+<html>
+    <head>
+        <title>Square and Cubes</title>
+        <style>
+            td,table{
+               
+                border: 1px solid black;
+                border-collapse: collapse;
+            }
+        </style>
+    </head>
+    <body>
+        <div align="center">
+            <h1>Squares and Cubes</h1>
+            <table>
+                <thead>
+                    <tr>
+                        <td> Number </td>
+                        <td> Square </td>
+                        <td> Cube </td>
+                    </tr>
+                </thead>
+                <tbody>
+
+                </tbody>
+                
+            </table>
+        </div>
+        <script>
+            var num;
+            var td = document.querySelector('tbody');
+            for(num=0;num<=10;num++)
+            {
+                td.insertAdjacentHTML('beforeend','<tr><td>'+num+'</td><td>'+num*num+'</td><td>'+num*num*num+'</td><tr>');
+            }
+        </script>
+    </body>
+</html>
